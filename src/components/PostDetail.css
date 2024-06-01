@@ -1,0 +1,10 @@
+.post-detail {
+  width: 80%;
+  max-width: 600px;
+  text-align: left;
+  margin: auto;
+}
+
+.comment {
+  text-align: left;
+}
