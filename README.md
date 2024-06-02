@@ -102,5 +102,3 @@ react-api-posts/
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
 
 ---
-
-Feel free to customize the README file according to your project's specifics, such as updating the repository URL and adding any additional sections as needed.
